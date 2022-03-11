@@ -1,0 +1,10 @@
+{
+  "appTitle": "MyBooks",
+  "login": "Login",
+  "register": "Register",
+  "username": "Username",
+  "password": "Password",
+  "cantBeEmpty": "Can't be empty",
+  "tryAgainLater": "Error. Try again later",
+  "books": "Books"
+}
